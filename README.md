@@ -1,1 +1,1 @@
-https://colab.research.google.com/github/Javier-16/Titanic-datos/blob/Trabajar-aqui-uwu/Titanic.ipynb
+https://colab.research.google.com/drive/1h79FwJXgjRqKOGE8MzEPbl68c9X_KJ-L?usp=sharing
